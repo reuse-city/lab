@@ -1,0 +1,10 @@
+# Projects
+
+## Research
+
+### [SHAREPAIR - Digital Support Infrastructure for Citizens in the Repair Economy](https://www.nweurope.eu/projects/project-search/sharepair-digital-support-infrastructure-for-citizens-in-the-repair-economy/)
+
+> The project addresses the increasing amount of waste from electrical and electronic equipment (WEEE). WEEE is one of the fastest-growing waste streams in the EU, growing at 3-5% a year. Consumption of electrical and electronic equipment (EEE), and therefore production of WEEE, is very high throughout the NWE region (Eurostat 2016, EEE products put on the market). At the same time, NWE is home to a growing citizen repair movement (10,000+ volunteers), attempting to fight back against this upsurge in waste. However, their impact remains small, even though consumers indicate a high willingness to repair. Hence, there is a large gap between intent and actual behaviour, due to a lack of convenient and accessible repair solutions.
+> The project aims to decrease WEEE from consumer products by scaling up citizen repair initiatives through the use of digital tools: digital tools that stimulate and facilitate citizen repair by collecting repair solutions and making them easily accessible to citizens. The tools will target both consumers at home and more skilled repairers in repair cafés. They will also map and guide citizens towards high-quality professional repair services, and assemble, with the help of designers, a database of 3D-printing designs (open-source) for printing replacement parts.
+> The objective is to decrease WEEE by 13,5 T per year in pilot repair cafés and by 175 T per year in the pilot cities.
+> The project’s main output will be an integrated approach to supporting citizen repair: a digital infrastructure that supports self-repair, repairing together (in repair cafés or repair centres), and repairing with professional support. To sustain this infrastructure beyond the project lifetime, business and policy models will be developed with a view to setting up a European Open Repair Data Platform.

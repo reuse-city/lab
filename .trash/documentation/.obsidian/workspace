@@ -1,0 +1,87 @@
+{
+  "main": {
+    "id": "bb1a18c1fb6929ad",
+    "type": "split",
+    "children": [
+      {
+        "id": "0d52936a36bea7ad",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ff42df8aeb9a3823",
+    "type": "split",
+    "children": [
+      {
+        "id": "fb1909aba4f88dfb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c00dde9c57187097",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "b17e554d3fad31cb",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d8646b6a8b848af4",
+    "type": "split",
+    "children": [
+      {
+        "id": "7d9847bec128fd86",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1fc02974b56b6944",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "0d52936a36bea7ad",
+  "lastOpenFiles": []
+}
