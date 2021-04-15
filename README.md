@@ -11,12 +11,14 @@ Based on the [concept ideas](https://is.efeefe.me/concepts) developed in earlier
 Check also:
 
 - [updates](communication/updates/README) and more about [communication](communication/README)
-- [references](references/README)
+- [media](media/README)
+- [meetings](meetins/README)
 - [prototypes](prototypes/README)
 	- [E-I](prototypes/e-i/README)
 	- [universal registry of things](prototypes/universal-registry/README)
 	- [transformation labs](prototypes/transformation-labs/README)
+- [references](references/README)
 
 # About this folder
 
-This documentation folder is edited with [Obsidian](https://obsidian.md/). If you want to replicate it on your environment, feel free to clone the [repository](https://github.com/reuse-city/lab/) and open this folder as a vault in your local installation of Obsidian. The contents can otherwise be browsed and edited in any text editor.
+This documentation folder was created with [Obsidian](https://obsidian.md/). If you want to replicate it on your environment, feel free to clone the [repository](https://github.com/reuse-city/lab/) and open this folder as a vault in your local installation of Obsidian. The contents can otherwise be browsed and edited in any text editor.
