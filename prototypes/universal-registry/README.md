@@ -2,9 +2,9 @@
 
 ## Description
 
-The Universal Registry of Things is a trusted source of information about how to reuse objects and materials. It offers information about repair, customisation and repurposing of virtually any kind of thing.
+The Universal Registry of Things aims to be a trusted source of information about how to reuse objects and materials. It offers information about repair, customisation and repurposing of virtually any kind of thing.
 
-Examples of data to be featured:
+Examples of data to be offered:
 
 * Manufacturer
 * Support and end-of-life policy;
@@ -18,26 +18,15 @@ Examples of data to be featured:
 * Examples of reuse / upcycling;
 * Second-hand market information.
 
+The universal registry of things was first articulated as a [concept idea](https://is.efeefe.me/concepts/universal-registry-things) within the OpenDoTT project.
+
 ## Prototyping
 
-I started (22.03.2021) modelling the base in this [airtable sheet](https://airtable.com/invite/l?inviteId=inv2pca3eNBmtT4d6&inviteToken=a6a50be7ff210aebd030eefa11c11b7f11833b4be695ab35aa9eb04cd60e877e).
+- I have secured the domain name valudata.org, thinking of potentially renaming the universal registry of things at some point. But I'm not totally convinced of it yet.
+- I hosted a conversation at [mozfest 2021](https://is.efeefe.me/opendott/mozfest-2021). I had originally intended to focus on the universal registry of things, but spent a good part of the session contextualising my research. Session notes are [here](https://github.com/opendott-smartcities/II/blob/main/workshops/mozfest/session-notes.md).
+- I started (22.03.2021) modelling the base in this [airtable sheet](https://airtable.com/invite/l?inviteId=inv2pca3eNBmtT4d6&inviteToken=a6a50be7ff210aebd030eefa11c11b7f11833b4be695ab35aa9eb04cd60e877e) as an experiment. An evolving list of information fields it should offer will be maintained [here](fields.md).
+- During the first meeting of reuse city lab (09.04.2021), we have evolved the idea of the universal registry of things being not necessarily one central database, but instead a protocol/standard of information relevant for reuse of goods and materials. It could potentially be deployed in a distributed way (such as the metadata schemes used by libraries like dublin core, perhaps?), partnering with zero waste initiatives, legislation on the right to repair, and other interested parties.
 
-## Session during Mozfest 2021
+## References
 
-- Workshop - Sustainability Space
-- 2021-03-11, 15:45–16:45, Zoom Room 5
-- Preparation blog post available [here](../workshops/mozfest/preparation_blog-post.md)
-- Session notes available [here](../workshops/mozfest/session-notes.md).
-
-**Session description:**
-
-> The session is planned to be an open discussion about the creation of an open registry of physical objects to support information systems that promote the reuse of materials through repair and repurposing. Some of the issues expected to be discussed are data structure and formats, governance and implications in terms of intellectual property, privacy and security.
-> This proposal is based on the original concept idea documented here:
-https://is.efeefe.me/concepts/universal-registry-things . It is part of my ongoing PhD research at the OpenDoTT project (Northumbria University / Mozilla Foundation), exploring alternatives for waste prevention in smart cities.
-> The main goal of the session is to contribute with a research project exploring ways to promote the reuse of materials in urban environments, and particularly what the role of digital technologies can be. It has a direct connection with sustainability as well as the principles of Mozfest.
-> The intention to assess the technical feasibility of creating an open registry of physical objects is one among other building blocks of what will hopefully configure a reuse commons. The outcomes of the session will be integrated with other participatory methods adopted by the project.
-> As little as one participant might already bring valuable contributions to the discussion, in which case it would be configured as an unstructured open conversation. On the other hand, if dozens of people show up it will work just as fine. I plan to break the session in 10-15 min blocks that allow to balance between directed discussions and more open interaction.
-
-## Previous work
-
-Building on top of [this concept idea](https://is.efeefe.me/concepts/universal-registry-things), created in an earlier phase of research. I'll keep updating that page as the prototype progresses.
+- [Dublin Core](https://dublincore.org/specifications/dublin-core/)
