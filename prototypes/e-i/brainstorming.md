@@ -1,5 +1,11 @@
 # Brainstorming
 
+## 13.04.2021
+
+reuse city [meeting](../../meetings/20210413-meeting.md). From participant:
+
+- Brainstorming on app: You pick up a tool, the app gives you solutions and directions. How to fork this thing. Here's a user story. (FF Note: I had not thought before of using an app to bring info about tools, only objects that could be transformed by tools).
+
 ## 08.03.2021
 
 More inspiration: [lamps made of upcycled materials](https://stw-design.website/produkt-kategorie/lampen/).
