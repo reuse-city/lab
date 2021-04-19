@@ -12,7 +12,7 @@ Check also:
 
 - [updates](communication/updates/README.md) and more about [communication](communication/README.md)
 - [media](media/README.md)
-- [meetings](meetins/README.md)
+- [meetings](meetings/README.md)
 - [prototypes](prototypes/README.md)
 	- [E-I](prototypes/e-i/README.md)
 	- [universal registry of things](prototypes/universal-registry/README.md)
