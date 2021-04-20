@@ -10,7 +10,7 @@ Based on the [concept ideas](https://is.efeefe.me/concepts) developed in earlier
 
 Check also:
 
-- [updates](communication/updates/README.md) and more about [communication](communication/README.md)
+- [updates](communication/updates/README.md) and more about [communication](communication/README.md) (TL;DR: we have an email discussion list and a telegram group for participants who [sign up to the consent form](https://make.reuse.city)). Regular updates are to be posted on [twitter](https://twitter.com/reuse_city).
 - [media](media/README.md)
 - [meetings](meetings/README.md)
 - [prototypes](prototypes/README.md)
