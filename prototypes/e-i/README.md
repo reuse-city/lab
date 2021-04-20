@@ -1,18 +1,29 @@
-# e.valudata
+# E-I - evaluation interface
 
 ![](header.jpg)
 
 ## Description
 
-e.valudata is technology (hardware + software) created to increase the ability to reuse materials. Users can show objects to the machines. e.valudata identifies the objects and displays information about their repairability, spare partes, raw materials, second-hand market, possibilities of upcycling, adaptations and transformations, etc.
+**E-I** is technology (hardware + software) to increase the ability to reuse products and materials. 
 
-The goal with e.valudata is not to develop a functional product, but rather to discuss how can technologies help society reuse a larger proportion of materials that are currently discarded, and what would the implications of such technologies be in terms of use, privacy, health and safety, policy and economy.
+Drafting a basic prototype:
+
+- User shows an object to E-I
+- E-I compares images and other information collected from the product/object (weight, colors, barcode, QR code) against a database such as the [universal registry of things](../universal-registry/README.md)
+- When information about the object is found, E-I retrieves it and delivers to the user
+- When information about the object is not found, E-I allows the user to input information
+
+For prototyping purposes, mock-ups of a workbench version of E-I can be constructed:
+
+- With an articulated arm, a NFC sensor + arduino, and a screen showing a local website (perhaps running off a Raspbery Pi). NFC tags are added to pre-selected products.
+- With an articulated arm, a Raspberry Pi with a camera and screen, and computer vision software to recognise predefined objects (different colors, maybe). Can [teachable machine](https://teachablemachine.withgoogle.com/) be used perhaps?
+- With an articulated arm, a Raspberry Pi with camera, screen, microphone and speaker. The user can interact with E-I both via the camera and voice commands / feedback.
+
+The goal with E-I at this point is not to develop a functional product, but rather to experiment with speculative use cases in order to discuss how  technologies might help interested parties reuse a larger proportion of materials that are currently discarded or kept out of use.  Other points of discussion are what would the implications of such technologies be in terms of use, privacy, health and safety, policy and economy.
 
 ![](valooe.png)
 
-## Previous work
-
-Based on [Point and Reuse](https://is.efeefe.me/concepts/point-reuse), concept idea created in the first year of research.
+Original concept:  [Point and Reuse](https://is.efeefe.me/concepts/point-reuse), created in previous phases of research.
 
 ## References
 
