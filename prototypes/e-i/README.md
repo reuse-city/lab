@@ -21,7 +21,7 @@ For prototyping purposes, mock-ups of a workbench version of E-I can be construc
 
 ## Sketch #1
 
-![[20210423_E-I_workbench.png]]
+![E-I Workbench number 1](20210423_E-I_workbench.png)
 
 **Expected behaviour:**
 
@@ -32,6 +32,8 @@ For prototyping purposes, mock-ups of a workbench version of E-I can be construc
 		1.  What is this -> navigate to page with description of object (video, images, text, other info)
 		2.  What can I do with this -> navigate to page with information about repair, upcycling, re-circulation, second hand market value
 	2.  Case B: unkown object. Overlay message: "Object not yet on database". Button says "Add this to the universal registry of things". Click -> page with form (need to add a keyboard as well). Ability to take picture or shoot video with E-I's camera.
+
+![Unicorn](20210423_unicorn.jpg)
 
 ## This prototype
 
