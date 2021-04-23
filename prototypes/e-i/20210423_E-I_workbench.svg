@@ -1,0 +1,329 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0beta2 (2b71d25, 2019-12-03)"
+   sodipodi:docname="20210423_E-I_workbench.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.54666032"
+     inkscape:cx="311.74107"
+     inkscape:cy="487.90302"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:window-width="1440"
+     inkscape:window-height="814"
+     inkscape:window-x="0"
+     inkscape:window-y="23"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="workbench"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       style="opacity:0.813505;fill:none;fill-opacity:1;stroke:none;stroke-width:0.7;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect988"
+       width="277.81573"
+       height="193.59981"
+       x="-12.099988"
+       y="0.96799904" />
+    <rect
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       style="opacity:0.813505;fill:#ffffff;stroke:#686867;stroke-width:0.7;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect833"
+       width="157.76767"
+       height="15.811714"
+       x="37.263561"
+       y="159.25554" />
+    <rect
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       y="134.30406"
+       x="66.638931"
+       height="10.069928"
+       width="89.670311"
+       id="rect835"
+       style="opacity:0.813505;fill:#ffffff;stroke:#686867;stroke-width:0.7;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none" />
+    <rect
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       style="opacity:0.813505;fill:#ffffff;stroke:#686867;stroke-width:0.70869749;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect837"
+       width="95.74411"
+       height="5.7285261"
+       x="14.46398"
+       y="226.1891"
+       transform="matrix(0.8418477,-0.53971516,0.71136049,0.70282733,0,0)" />
+    <rect
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       transform="matrix(0.8352605,0.54985443,-0.72059577,0.69335542,0,0)"
+       y="-56.660641"
+       x="164.2274"
+       height="5.7456503"
+       width="95.483261"
+       id="rect839"
+       style="opacity:0.813505;fill:#ffffff;stroke:#686867;stroke-width:0.70878847;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none" />
+    <rect
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       style="opacity:0.813505;fill:#ffffff;stroke:#686867;stroke-width:0.70000176;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect841"
+       width="35.247997"
+       height="8.6241426"
+       x="148.73552"
+       y="-181.46393"
+       transform="matrix(0.00401879,0.99999192,-0.99999964,8.4661102e-4,0,0)" />
+    <rect
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       style="opacity:0.813505;fill:#ffffff;stroke:#686867;stroke-width:0.7;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect843"
+       width="26.009684"
+       height="6.0496602"
+       x="164.47429"
+       y="181.73116" />
+    <ellipse
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       style="opacity:0.813505;fill:#ffffff;stroke:#686867;stroke-width:0.70182224;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       id="path845"
+       cx="63.063461"
+       cy="132.43808"
+       rx="22.119644"
+       ry="36.818432"
+       transform="matrix(0.69803607,-0.7160626,0.78334785,0.62158357,0,0)" />
+    <ellipse
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       ry="29.754074"
+       rx="14.7522"
+       cy="132.43808"
+       cx="63.063461"
+       id="ellipse847"
+       style="opacity:0.813505;fill:#ffffff;stroke:#686867;stroke-width:0.70182224;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       transform="matrix(0.69803607,-0.7160626,0.78334785,0.62158357,0,0)" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="workbench labels">
+    <text
+       id="text851"
+       y="141.24136"
+       x="77.235939"
+       style="font-style:normal;font-weight:normal;font-size:6.35243px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.158811"
+       xml:space="preserve"><tspan
+         style="stroke-width:0.158811"
+         y="141.24136"
+         x="77.235939"
+         id="tspan849"
+         sodipodi:role="line">Cutting mat</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:6.35243px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.158811"
+       x="77.235939"
+       y="168.58989"
+       id="text855"><tspan
+         sodipodi:role="line"
+         id="tspan853"
+         x="77.235939"
+         y="168.58989"
+         style="stroke-width:0.158811">Workbench</tspan></text>
+    <text
+       id="text859"
+       y="115.67319"
+       x="167.19429"
+       style="font-style:normal;font-weight:normal;font-size:6.35243px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.158811"
+       xml:space="preserve"><tspan
+         style="stroke-width:0.158811"
+         y="115.67319"
+         x="167.19429"
+         id="tspan857"
+         sodipodi:role="line">Articulated arm</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:6.35243px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.158811"
+       x="175.6015"
+       y="16.862593"
+       id="text863"><tspan
+         sodipodi:role="line"
+         id="tspan861"
+         x="175.6015"
+         y="16.862593"
+         style="stroke-width:0.158811">Magnifying glass</tspan><tspan
+         id="tspan865"
+         sodipodi:role="line"
+         x="175.6015"
+         y="24.803129"
+         style="stroke-width:0.158811">+</tspan><tspan
+         id="tspan867"
+         sodipodi:role="line"
+         x="175.6015"
+         y="32.743668"
+         style="stroke-width:0.158811">LED light</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="E-I">
+    <rect
+       y="139.06418"
+       x="8.4564714"
+       height="36.00309"
+       width="28.807093"
+       id="rect931"
+       style="opacity:0.813505;fill:#ffffff;stroke:#0d1fed;stroke-width:0.7;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <rect
+       style="opacity:0.813505;fill:#ffffff;stroke:#0d1fed;stroke-width:0.7;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect933"
+       width="23.369844"
+       height="11.836764"
+       x="98.136497"
+       y="145.77965" />
+    <ellipse
+       style="opacity:0.813505;fill:#ffffff;stroke:#0d1fed;stroke-width:0.7;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path953"
+       cx="109.82142"
+       cy="151.69803"
+       rx="4.7146616"
+       ry="3.5163045" />
+    <rect
+       y="61.502335"
+       x="176.2076"
+       height="11.941362"
+       width="12.821698"
+       id="rect955"
+       style="opacity:0.813505;fill:#ffffff;stroke:#0d1fed;stroke-width:0.7;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <ellipse
+       ry="2.4080207"
+       rx="2.4449885"
+       cy="67.713295"
+       cx="182.69853"
+       id="ellipse957"
+       style="opacity:0.813505;fill:#ffffff;stroke:#0d1fed;stroke-width:0.7;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <rect
+       style="opacity:0.813505;fill:#ffffff;stroke:#0d1fed;stroke-width:0.760495;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect959"
+       width="74.832321"
+       height="41.933659"
+       x="-38.209644"
+       y="93.792046"
+       transform="matrix(1,0,0.53121995,0.84723395,0,0)" />
+    <rect
+       y="145.96147"
+       x="43.269089"
+       height="11.836764"
+       width="23.369844"
+       id="rect961"
+       style="opacity:0.813505;fill:#ffffff;stroke:#0d1fed;stroke-width:0.7;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <ellipse
+       ry="3.5742788"
+       rx="3.4687147"
+       cy="151.87985"
+       cx="49.945923"
+       id="ellipse963"
+       style="opacity:0.813505;fill:#ffffff;stroke:#0d1fed;stroke-width:0.7;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <ellipse
+       style="opacity:0.813505;fill:#ffffff;stroke:#0d1fed;stroke-width:0.7;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="ellipse965"
+       cx="60.529259"
+       cy="151.87985"
+       rx="3.4687147"
+       ry="3.5742788" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="E-I labels">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:7.05556px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="39.687962"
+       y="99.703903"
+       id="text970"><tspan
+         sodipodi:role="line"
+         id="tspan968"
+         x="39.687962"
+         y="99.703903"
+         style="fill:#0d15ed;fill-opacity:1;stroke-width:0.264583">Touchscreen</tspan></text>
+    <text
+       id="text974"
+       y="185.39711"
+       x="8.6668253"
+       style="font-style:normal;font-weight:normal;font-size:7.05556px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="fill:#0d15ed;fill-opacity:1;stroke-width:0.264583"
+         y="185.39711"
+         x="8.6668253"
+         id="tspan972"
+         sodipodi:role="line">Raspberry Pi</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:7.05556px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="41.475155"
+       y="132.48039"
+       id="text978"><tspan
+         sodipodi:role="line"
+         id="tspan976"
+         x="41.475155"
+         y="132.48039"
+         style="fill:#0d15ed;fill-opacity:1;stroke-width:0.264583">Ultrasonic</tspan></text>
+    <text
+       id="text982"
+       y="153.64708"
+       x="126.14181"
+       style="font-style:normal;font-weight:normal;font-size:7.05556px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="fill:#0d15ed;fill-opacity:1;stroke-width:0.264583"
+         y="153.64708"
+         x="126.14181"
+         id="tspan980"
+         sodipodi:role="line">NFC</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:7.05556px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="173.76685"
+       y="84.8554"
+       id="text986"><tspan
+         sodipodi:role="line"
+         id="tspan984"
+         x="173.76685"
+         y="84.8554"
+         style="fill:#0d15ed;fill-opacity:1;stroke-width:0.264583">PiCam</tspan></text>
+  </g>
+</svg>

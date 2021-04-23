@@ -15,15 +15,31 @@ Drafting a basic prototype:
 
 For prototyping purposes, mock-ups of a workbench version of E-I can be constructed:
 
-- With an articulated arm, a NFC sensor + arduino, and a screen showing a local website (perhaps running off a Raspbery Pi). NFC tags are added to pre-selected products.
-- With an articulated arm, a Raspberry Pi with a camera and screen, and computer vision software to recognise predefined objects (different colors, maybe). Here's a start on its shape in [a workbench setup](https://www.youtube.com/watch?v=VU87-ANYerk. Can [teachable machine](https://teachablemachine.withgoogle.com/) be used perhaps?
+- With an articulated arm, a NFC sensor + arduino, and a screen showing a local website (running off a server in a Raspbery Pi). NFC tags are added to pre-selected products.
+- With an articulated arm, a Raspberry Pi with a camera and screen, and computer vision software to recognise predefined objects (different colors, maybe). Here's a start on its shape in [a workbench setup](https://www.youtube.com/watch?v=VU87-ANYerk). Can [teachable machine](https://teachablemachine.withgoogle.com/) be used perhaps?
 - With an articulated arm, a Raspberry Pi with camera, screen, microphone and speaker. The user can interact with E-I both via the camera and voice commands / feedback.
+
+## Sketch #1
+
+![[20210423_E-I_workbench.png]]
+
+**Expected behaviour:**
+
+1. Put an object in the mat. The proximity sensor turns the LCD on. A welcome screen is shown. Button to start E-I on the screen.
+2. Button is clicked: camera is turned on and shows an image of what is in the mat. Overlay message "scanning for things" (or "objects", or "materials"?). 
+3. Once an object is recognised (for prototyping purposes, via NFC), show message on screen (optionally, sound a notification - but that needs a speaker too)
+	1.  Case A: known object. Overlay message: "Object found on database". Buttons on screen: 
+		1.  What is this -> navigate to page with description of object (video, images, text, other info)
+		2.  What can I do with this -> navigate to page with information about repair, upcycling, re-circulation, second hand market value
+	2.  Case B: unkown object. Overlay message: "Object not yet on database". Button says "Add this to the universal registry of things". Click -> page with form (need to add a keyboard as well). Ability to take picture or shoot video with E-I's camera.
+
+## This prototype
 
 The goal with E-I at this point is not to develop a functional product, but rather to experiment with speculative use cases in order to discuss how  technologies might help interested parties reuse a larger proportion of materials that are currently discarded or kept out of use.  Other points of discussion are what would the implications of such technologies be in terms of use, privacy, health and safety, policy and economy.
 
-![](valooe.png)
-
 Original concept:  [Point and Reuse](https://is.efeefe.me/concepts/point-reuse), created in previous phases of research.
+
+![](valooe.png)
 
 ## References
 
