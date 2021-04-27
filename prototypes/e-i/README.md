@@ -15,7 +15,7 @@ Drafting a basic prototype:
 
 For prototyping purposes, mock-ups of a workbench version of E-I can be constructed:
 
-- With an articulated arm, a NFC sensor + arduino, and a screen showing a local website (running off a server in a Raspbery Pi). NFC tags are added to pre-selected products.
+- With an articulated arm, a NFC sensor + arduino (playing with code [here](NFC)), and a screen showing a local website (running off a server in a Raspbery Pi). NFC tags are added to pre-selected products.
 - With an articulated arm, a Raspberry Pi with a camera and screen, and computer vision software to recognise predefined objects (different colors, maybe). Here's a start on its shape in [a workbench setup](https://www.youtube.com/watch?v=VU87-ANYerk). Can [teachable machine](https://teachablemachine.withgoogle.com/) be used perhaps?
 - With an articulated arm, a Raspberry Pi with camera, screen, microphone and speaker. The user can interact with E-I both via the camera and voice commands / feedback.
 
