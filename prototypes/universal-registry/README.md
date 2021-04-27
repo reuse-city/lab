@@ -53,4 +53,5 @@ The universal registry of things was first articulated as a [concept idea](https
 
 ## References
 
+- [Open3R](https://github.com/OpenDataManchester/Open3R) - A data standard for reporting data about Household Waste Recycling Centres
 - [Dublin Core](https://dublincore.org/specifications/dublin-core/)
