@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+
+<html>
+    <head>
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootswatch/4.5.2/flatly/bootstrap.min.css" integrity="sha384-8iuq0iaMHpnH2vSyvZMSIqQuUnQA7QM+f6srIdlgBrTSEyd//AWNMyEaSF2yPzNQ" crossorigin="anonymous">
+    </head>
+<body>
+
+
+<div class = "container">
+
+<div>
+  <iframe scrolling=no marginwidth=0 width="50%" height="600" marginheight=0 frameborder=0 src="http://192.168.178.33/cam/min.php"></iframe>
+<div>
+
+<div>
+</div>
+</div>
+</body>
+</html>

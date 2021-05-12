@@ -43,7 +43,7 @@ PN532 nfc(pn532i2c);
 void setup(void) {
   Serial.begin(115200);
   while (!Serial);
-  Serial.println("E-I");
+//  Serial.println("E-I");
 
   nfc.begin();
 
@@ -60,7 +60,7 @@ void setup(void) {
   // configure board to read RFID tags
   nfc.SAMConfig();
 
-  Serial.println("Standing by to identify object");
+  // Serial.println("Standing by to identify object");
 }
 
 
@@ -76,7 +76,7 @@ void loop(void) {
 
   if (success) {
     // Display some basic information about the card
-    Serial.println("Object identified");
+    // Serial.println("Object identified");
 //    Serial.print("  UID Length: "); Serial.print(uidLength, DEC); Serial.println(" bytes");
 //    Serial.print("  UID Value: ");
 //    nfc.PrintHex(uid, uidLength);
@@ -98,21 +98,25 @@ void loop(void) {
 
       if (code == "449187122243103129") {
         
-        Serial.println("Object 1");
+        Serial.println("1");
       
       } 
       
       else if (code == "433187122243103129") {
 
-        Serial.println("Object 2");
+        Serial.println("2");
 
       }
 
       else if (code == "457187122243103129") {
 
-        Serial.println("Object 3");
+        Serial.println("3");
 
       }      
+
+      else {
+        Serial.println("0");
+      }
 
       // We probably have a Mifare Ultralight card ...
       // Serial.println("Seems to be a Mifare Ultralight tag (7 byte UID)");
@@ -132,7 +136,7 @@ void loop(void) {
       }
       else
       {
-        Serial.println("Ooops ... object not known.");
+        Serial.println("Not recognised");
       }
     }
   }
