@@ -4,7 +4,7 @@
 
 ## Description
 
-**E-I** is technology (hardware + software) to increase the ability to reuse products and materials. 
+**E-I** is technology (hardware + software) to increase the ability to reuse products and materials.
 
 Drafting a basic prototype:
 
@@ -19,6 +19,8 @@ For prototyping purposes, mock-ups of a workbench version of E-I can be construc
 - With an articulated arm, a Raspberry Pi with a camera and screen, and computer vision software to recognise predefined objects (different colors, maybe). Here's a start on its shape in [a workbench setup](https://www.youtube.com/watch?v=VU87-ANYerk). Can [teachable machine](https://teachablemachine.withgoogle.com/) be used perhaps?
 - With an articulated arm, a Raspberry Pi with camera, screen, microphone and speaker. The user can interact with E-I both via the camera and voice commands / feedback.
 
+![E-I - short video description](prototype_E-I.mkv)
+
 ## Sketch #1
 
 ![E-I Workbench number 1](20210423_E-I_workbench.png)
@@ -26,9 +28,9 @@ For prototyping purposes, mock-ups of a workbench version of E-I can be construc
 **Expected behaviour:**
 
 1. Put an object in the mat. The proximity sensor turns the LCD on. A welcome screen is shown. Button to start E-I on the screen.
-2. Button is clicked: camera is turned on and shows an image of what is in the mat. Overlay message "scanning for things" (or "objects", or "materials"?). 
+2. Button is clicked: camera is turned on and shows an image of what is in the mat. Overlay message "scanning for things" (or "objects", or "materials"?).
 3. Once an object is recognised (for prototyping purposes, via NFC), show message on screen (optionally, sound a notification - but that needs a speaker too)
-	1.  Case A: known object. Overlay message: "Object found on database". Buttons on screen: 
+	1.  Case A: known object. Overlay message: "Object found on database". Buttons on screen:
 		1.  What is this -> navigate to page with description of object (video, images, text, other info)
 		2.  What can I do with this -> navigate to page with information about repair, upcycling, re-circulation, second hand market value
 	2.  Case B: unkown object. Overlay message: "Object not yet on database". Button says "Add this to the universal registry of things". Click -> page with form (need to add a keyboard as well). Ability to take picture or shoot video with E-I's camera.
