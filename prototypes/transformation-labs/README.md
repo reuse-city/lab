@@ -13,6 +13,8 @@ What constitutes a transformation lab?
 
 *Original concept idea: [Transformation Labs](https://is.efeefe.me/concepts/transformation-lab).*
 
+![Transformation Labs - short video description](prototype_transformation-labs.webm)
+
 ## Equipment
 
 What sort of equipment is needed for a Transformation Lab?

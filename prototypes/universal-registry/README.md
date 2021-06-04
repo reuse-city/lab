@@ -23,9 +23,11 @@ Some examples of types of data to be featured:
 
 The universal registry of things was first articulated as a [concept idea](https://is.efeefe.me/concepts/universal-registry-things) within the OpenDoTT project.
 
+![Universal Registry of Things - short video description](prototype_universal-registry.mkv)
+
 ## Prototyping Log
 
-- **16.04.2021.** [meeting](../../meetings/20210416-meeting.md) with three participants. Interesting conversations, including about governance of the database. 
+- **16.04.2021.** [meeting](../../meetings/20210416-meeting.md) with three participants. Interesting conversations, including about governance of the database.
 	- Barcode, Serial Number, etc. - lots of information already exist. Manufacturers have loads of information but will not share. The identifier is there however. Parallel dataset using their identifiers.
 	- Wikipedia of things? -> linux kernel of things (individual as well as institutional contributions - hobbyists, manufacturers, community repairers and those who do this for a living)
 	- Focus on objects instead of people
