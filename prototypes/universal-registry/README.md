@@ -27,7 +27,11 @@ The universal registry of things was first articulated as a [concept idea](https
 
 ## Prototyping Log
 
-- **10.06.2021.** This week I bought the domain name thingwiki.cc. Now looking into setting up a wiki where I can start experimenting. I'm curious about [Wiki.js](https://js.wiki/get-started). Setting up an instance on heroku (to which I'm new also). App is up, but I still need to study a little to find how to enable it to be saved to GitHub.
+- **10.06.2021.** This week I bought the domain name thingwiki.cc. Now looking into setting up a wiki where I can start experimenting. 
+	- I'm curious about [Wiki.js](https://js.wiki/get-started). Setting up an instance on heroku (to which I'm new also). 
+	- App is up, but I still need to study a little to find how to enable it to be saved to GitHub.
+	- Good documentation found [here](https://docs.requarks.io/storage/git). I had some trouble trying to have the wiki access the SSH key via path, but solved it pasting the contents of the key in the app interface. It doesn't seem to be good security, but for this prototype it's ok.
+	- Yay! A clever wiki engine with automatic backup via git on markdown files! Getting excited.
 - **16.04.2021.** [meeting](../../meetings/20210416-meeting.md) with three participants. Interesting conversations, including about governance of the database.
 	- Barcode, Serial Number, etc. - lots of information already exist. Manufacturers have loads of information but will not share. The identifier is there however. Parallel dataset using their identifiers.
 	- Wikipedia of things? -> linux kernel of things (individual as well as institutional contributions - hobbyists, manufacturers, community repairers and those who do this for a living)
