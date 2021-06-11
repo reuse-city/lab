@@ -4,7 +4,7 @@
 
 The Universal Registry of Things will be a trusted source of information about how to reuse objects and materials. It will do so by offering information about repair, customisation and repurposing of virtually any kind of thing.
 
-**Question** to lab participants: should "universal registry of things" be renamed "valudata"? Please bring this discussion to one of our communication channels.
+The prototype of the Universal Registry of Things is called [ThingWiki](http://thingwiki.cc).
 
 ## Fields
 
@@ -25,6 +25,14 @@ The universal registry of things was first articulated as a [concept idea](https
 
 ![Universal Registry of Things - short video description](prototype_universal-registry.mkv)
 
+## Examples
+
+Examples of products to be featured in the prototype:
+
+* Laptop
+* Bicycle
+* Guitar
+
 ## Prototyping Log
 
 - **10.06.2021.** This week I bought the domain name thingwiki.cc. Now looking into setting up a wiki where I can start experimenting. 
@@ -32,6 +40,7 @@ The universal registry of things was first articulated as a [concept idea](https
 	- App is up, but I still need to study a little to find how to enable it to be saved to GitHub.
 	- Good documentation found [here](https://docs.requarks.io/storage/git). I had some trouble trying to have the wiki access the SSH key via path, but solved it pasting the contents of the key in the app interface. It doesn't seem to be good security, but for this prototype it's ok.
 	- Yay! A clever wiki engine with automatic backup via git on markdown files! Getting excited.
+	- Gave up enabling the SSL certificate for the domain name, for the time being. I'll just set up an alias to the herokuapp subdomain.
 - **16.04.2021.** [meeting](../../meetings/20210416-meeting.md) with three participants. Interesting conversations, including about governance of the database.
 	- Barcode, Serial Number, etc. - lots of information already exist. Manufacturers have loads of information but will not share. The identifier is there however. Parallel dataset using their identifiers.
 	- Wikipedia of things? -> linux kernel of things (individual as well as institutional contributions - hobbyists, manufacturers, community repairers and those who do this for a living)
