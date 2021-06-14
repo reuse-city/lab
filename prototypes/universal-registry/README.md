@@ -37,11 +37,7 @@ Examples of products to be featured in the prototype:
 
 ### 14.06.2021
 
-From [this lab documentation log](https://github.com/reuse-city/lab/blob/main/prototypes/universal-registry/README.md). I summarise: planning for a data commons that welcomes contributions from humans as well as non-human (more-than-human?) systems.
-
----
-
-(...) in at least one occasion during the reuse city workshop in April, we have discussed ways to balance the diverse interests involved in maintaining an open and distributed database of things and their reuse. Suggestions were made about adopting an appproach inspired by [wikipedia](https://wikipedia.org). I do understand that direction, with some observations.
+Contextualising recent developments: in at least one occasion during the reuse city workshop in April, we have discussed ways to balance the diverse interests involved in maintaining an open and distributed database of things and their reuse. Suggestions were made about adopting an appproach inspired by [wikipedia](https://wikipedia.org). I do understand that direction, with some observations.
 
 People usually associate wikipedia with a sense of collective construction of knowledge, which is fine. But I also think wikipedia's perspective is too focused on individual discrete contributions. The very association with the history of the encyclopaedia speaks to the spirit of the author, that renaissance man (gender bias intentional here). And while I do have I high respect for the role of individual contributions to build an universal registry of things composed of many discrete parts, I do also see room to accept contributions from institutions/organisations as well as automated and more-than-human systems. Those are usually not well seen under wikipedia rules.
 
