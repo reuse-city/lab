@@ -63,3 +63,4 @@ What sort of equipment is needed for a Transformation Lab?
  - [Repair Cafe'](https://wikifab.org/wiki/Repair_Cafe%27)
  - [Restart Project: Tools](https://wiki.restarters.net/Tools)
  - [iFixit Store](https://pt.ifixit.com/Store/)
+ - [Open Lab Starter Kit](https://fabcity.hamburg/en/open-lab-starter-kit/) from Fabcity Hamburg
